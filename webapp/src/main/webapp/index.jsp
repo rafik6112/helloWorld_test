@@ -3,17 +3,18 @@
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
   </div>
 
+
+  INTEGRATION CONTINUE
+  
   <div class="container">
-    <label for="uname"><b>Username</b></label>
+    <label for="uname"><b>Pseudonyme</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>mot de passe</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
-    <button type="submit">Login</button>
+    <button type="submit">validi</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> Remember me
-    </label>
   </div>
 
   <div class="container" style="background-color:#f1f1f1">
