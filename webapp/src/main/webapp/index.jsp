@@ -4,9 +4,9 @@
   </div>
 
 
-  INTEGRATION CONTINUE
+<div color="yellow">INTEGRATION CONTINUE</div>
   
-  <div class="container">
+  <div class="container" background-color="blue">
     <label for="uname"><b>Pseudonyme</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 
