@@ -4,7 +4,7 @@
   </div>
 
 
-<div color="yellow">ABOUBACAR LE BEAU</div>
+<div color="yellow">AAAAAAAAAAAAAAAAAAAAAAA</div>
   
   <div class="container" background-color="blue">
     <label for="uname"><b>Pseudonyme</b></label>
